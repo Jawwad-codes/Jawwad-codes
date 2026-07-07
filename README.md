@@ -17,16 +17,16 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawwad-nadeem/)
 [![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jawwad-codes)
 [![Resume](https://img.shields.io/badge/Resume-6D28D9?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=8B5CF6&label=FOLLOWERS&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=8B5CF6&label=STARS&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=Jawwad-codes&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Jawwad-codes?style=for-the-badge&color=8B5CF6&label=FOLLOWERS&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/Jawwad-codes?style=for-the-badge&color=8B5CF6&label=STARS&labelColor=1a1a2e)
 
 </div>
 
@@ -138,7 +138,7 @@ An end-to-end deployment pipeline that automatically builds, containerizes, and 
 | **CI/CD** | Triggered on push → build image → push to registry → deploy to EC2 |
 | **Reverse Proxy** | NGINX serving the deployed application |
 | **Relevance** | Demonstrates practical CI/CD automation without manual deployment steps |
-| **Repository** | `github.com/YOUR_GITHUB_USERNAME/cicd-pipeline` |
+| **Repository** | `github.com/Jawwad-codes/cicd-pipeline` |
 
 </details>
 
@@ -154,7 +154,7 @@ A static portfolio site designed around a CI/CD visual theme, deployed via **ngi
 | **Web Server** | NGINX |
 | **Deployment** | Manual → automatable via the CI/CD pipeline above |
 | **Relevance** | Practical exposure to serving and configuring production static assets |
-| **Repository** | `github.com/YOUR_GITHUB_USERNAME/portfolio` |
+| **Repository** | `github.com/Jawwad-codes/portfolio` |
 
 </details>
 
@@ -210,14 +210,10 @@ Gained practical experience across development tasks, contributing to real-world
 
 ## 📜 Certifications
 
-> _Add your certification badges below as you earn them — placeholders shown for reference._
-
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS%20Certified-in%20progress-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![HashiCorp](https://img.shields.io/badge/Terraform%20Associate-in%20progress-232F3E?style=for-the-badge&logo=terraform&logoColor=844FBA)
-![Docker](https://img.shields.io/badge/Docker%20Certified-in%20progress-232F3E?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux Foundation](https://img.shields.io/badge/LFCS-in%20progress-232F3E?style=for-the-badge&logo=linux&logoColor=FCC624)
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-completed-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-completed-232F3E?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
 
@@ -241,10 +237,10 @@ Gained practical experience across development tasks, contributing to real-world
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jawwad-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img src="https://streak-stats.demolab.com/?user=Jawwad-codes&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </div>
 
@@ -254,7 +250,7 @@ Gained practical experience across development tasks, contributing to real-world
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jawwad-codes&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -264,7 +260,7 @@ Gained practical experience across development tasks, contributing to real-world
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jawwad-codes&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
 
 </div>
 
@@ -274,7 +270,7 @@ Gained practical experience across development tasks, contributing to real-world
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Jawwad-codes/Jawwad-codes/output/github-contribution-grid-snake-dark.svg"/>
 
 > _Note: the snake animation requires a one-time GitHub Actions workflow set up in a repo named after your username. Search "platane/snk" for the generator action if you'd like this to render automatically._
 
@@ -316,8 +312,8 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawwad-nadeem/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jawwad-codes)
 [![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
 [![Resume](https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white)](https://your-resume-link.com)
 
