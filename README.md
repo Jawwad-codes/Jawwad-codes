@@ -178,13 +178,14 @@ Contributed to frontend tasks on web applications in a remote team, gaining hand
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jawwad-codes/Jawwad-codes/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jawwad-codes/Jawwad-codes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jawwad-codes/Jawwad-codes/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jawwad-codes/Jawwad-codes/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
-> ⚡ **To make the snake animation above actually render:** create a repo named exactly `Jawwad-codes` (same as your username), then add the GitHub Action from **`platane/snk`** to that repo. It regenerates the SVG daily from your real contribution graph — instructions are in that action's README.
-
----
 
 ## 🔭 Current Focus
 
