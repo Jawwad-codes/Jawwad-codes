@@ -33,7 +33,7 @@
 
 ## 🧩 About Me
 
-I'm a Software Engineering , focused on **Cloud & DevOps engineering** — CI/CD automation, containerization, and infrastructure-as-code. I like taking an app from a `git push` to a running, monitored service without touching anything by hand.
+I'm a Software Engineer , focused on **Cloud & DevOps engineering** — CI/CD automation, containerization, and infrastructure-as-code. I like taking an app from a `git push` to a running, monitored service without touching anything by hand.
 
 My hands-on work includes building a **GitHub Actions → Docker → EC2** deployment pipeline (with IAM & security-group hardening), automating **EC2/S3 provisioning** with the AWS CLI and Bash, and scripting full-stack app deployments on Linux with Docker Compose. I also spent time debugging and refactoring legacy **.NET** applications for a client, which sharpened how I think about reliability in systems I didn't build myself.
 
