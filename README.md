@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Jawwad%20Nadeem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Automation%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Cloud+%2F+DevOps+Engineer;CI%2FCD+%7C+Docker+%7C+AWS;Automating+Infra+with+Bash+%26+IaC;Software+Engineering+%40" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Cloud+%2F+DevOps+Engineer;CI%2FCD+%7C+Docker+%7C+AWS;Automating+Infra+with+Bash+%26+IaC;Software+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
