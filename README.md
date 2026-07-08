@@ -166,14 +166,6 @@ Contributed to frontend tasks on web applications in a remote team, gaining hand
 
 </div>
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jawwad-codes&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
 ## 📊 Contribution Activity
 
 <div align="center">
