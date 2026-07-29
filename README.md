@@ -58,7 +58,7 @@ currently_learning: Kubernetes · Terraform · AWS Solutions Architecture
 
 **Cloud & Infra**
 
-![Skill Icons](https://skillicons.dev/icons?i=aws,docker,kubernetes,linux&theme=dark)
+![Skill Icons](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux&theme=dark)
 
 **CI/CD & Version Control**
 
@@ -74,7 +74,7 @@ currently_learning: Kubernetes · Terraform · AWS Solutions Architecture
 
 **Databases**
 
-![Skill Icons](https://skillicons.dev/icons?i=mongodb,mysql&theme=dark)
+![Skill Icons](https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark)
 
 </div>
 
@@ -82,6 +82,33 @@ currently_learning: Kubernetes · Terraform · AWS Solutions Architecture
 
 ## 🚀 Featured Projects
 
+<details open>
+<summary><b>🚀 End-to-End AWS Microservices Platform — Terraform · EKS · GitHub Actions · CloudFront</b></summary>
+
+<br/>
+
+Designed and deployed a production-inspired cloud-native microservices platform on AWS using Infrastructure as Code, Kubernetes, and automated CI/CD. The project provisions the complete infrastructure with Terraform, deploys containerized microservices on Amazon EKS, automates deployments with GitHub Actions, and hosts the frontend using Amazon S3 and CloudFront.
+
+| Category | Details |
+|---|---|
+| **Infrastructure** | Terraform Modules, Remote State (S3), DynamoDB State Locking |
+| **Cloud** | AWS VPC, Public & Private Subnets, Internet Gateway, NAT Gateway, Route Tables, Security Groups |
+| **Container Platform** | Amazon EKS, Kubernetes Deployments, Services & Ingress |
+| **Database** | Amazon RDS PostgreSQL (Private Subnets) |
+| **Container Registry** | Amazon ECR |
+| **Frontend** | Amazon S3 + CloudFront |
+| **CI/CD** | GitHub Actions → Build → Push to Amazon ECR → Deploy to Amazon EKS |
+| **Architecture** | Multi-AZ VPC with secure networking and production-inspired design |
+
+### 🔧 Technologies
+
+Terraform • AWS • Amazon EKS • Kubernetes • Docker • GitHub Actions • Amazon ECR • Amazon RDS • CloudFront • Amazon S3 • PostgreSQL • Linux
+
+### 📂 Repository
+
+**GitHub:** https://github.com/Jawwad-codes/microservices-project
+
+</details>
 <details>
 <summary><b>⚙️ Web App Deployment Pipeline — GitHub Actions · Docker · AWS EC2</b></summary>
 <br/>
@@ -199,9 +226,10 @@ learning:
   - AWS Solutions Architecture
 
 building:
-  - Production-style CI/CD pipelines
-  - AWS automation scripts (CLI + Bash)
-
+  - Production-style Kubernetes platforms on AWS
+  - Terraform Infrastructure as Code
+  - GitHub Actions CI/CD
+  
 open_to:
   - Cloud Engineer / DevOps Engineer roles
   - Internship opportunities
