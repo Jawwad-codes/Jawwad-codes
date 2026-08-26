@@ -198,9 +198,21 @@ Contributed to frontend tasks on web applications in a remote team, gaining hand
 
 ## 📊 Contribution Activity
 
+<!--
+  Swapped from github-readme-activity-graph.vercel.app — that shared
+  instance is currently returning HTTP 402 (Vercel usage limit hit on
+  the free public deployment, not a problem with this file). Using
+  github-profile-summary-cards instead, which is live right now.
+  If you'd rather keep the original graph style, fork
+  Ashutosh00710/github-readme-activity-graph, deploy it to your OWN
+  Vercel account, and swap the URL below for your own deployment.
+-->
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jawwad-codes&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jawwad-codes&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jawwad-codes&theme=github_dark"/>
 
 </div>
 
