@@ -198,22 +198,13 @@ Contributed to frontend tasks on web applications in a remote team, gaining hand
 
 ## 📊 Contribution Activity
 
-<!--
-  Swapped from github-readme-activity-graph.vercel.app — that shared
-  instance is currently returning HTTP 402 (Vercel usage limit hit on
-  the free public deployment, not a problem with this file). Using
-  github-profile-summary-cards instead, which is live right now.
-  If you'd rather keep the original graph style, fork
-  Ashutosh00710/github-readme-activity-graph, deploy it to your OWN
-  Vercel account, and swap the URL below for your own deployment.
--->
-
 <div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jawwad-codes&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jawwad-codes&theme=github_dark"/>
-
+  <a href="https://commit-history.com/Jawwad-codes">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Jawwad-codes?theme=dark" />
+      <img alt="Jawwad-codes's commit history" src="https://commit-history.com/embed/Jawwad-codes" width="100%" />
+    </picture>
+  </a>
 </div>
 
 ## 🐍 Contribution Snake
