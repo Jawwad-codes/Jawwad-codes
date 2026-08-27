@@ -196,7 +196,6 @@ Contributed to frontend tasks on web applications in a remote team, gaining hand
 
 </div>
 
-## 📊 Contribution Activity
 
 ## 📊 Contribution Activity
 
