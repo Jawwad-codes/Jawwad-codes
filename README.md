@@ -198,13 +198,10 @@ Contributed to frontend tasks on web applications in a remote team, gaining hand
 
 ## 📊 Contribution Activity
 
+## 📊 Contribution Activity
+
 <div align="center">
-  <a href="https://commit-history.com/Jawwad-codes">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Jawwad-codes?theme=dark" />
-      <img alt="Jawwad-codes's commit history" src="https://commit-history.com/embed/Jawwad-codes" width="100%" />
-    </picture>
-  </a>
+  <img src="https://github-activity-chart.vercel.app/graph?username=Jawwad-codes&bg_color=1a1b27&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true&custom_title=Jawwad%20Nadeem's%20Contribution%20Graph" width="100%" alt="Jawwad-codes Contribution Graph"/>
 </div>
 
 ## 🐍 Contribution Snake
