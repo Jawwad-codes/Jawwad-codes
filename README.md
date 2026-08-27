@@ -61,7 +61,7 @@ currently_learning: Kubernetes · Terraform · AWS Solutions Architecture
 
 **CI/CD & Version Control**
 
-![Skill Icons](https://skillicons.dev/icons?i=githubactions,git,github&theme=dark)
+![Skill Icons](https://skillicons.dev/icons?i=githubactions,git,github,jenkins&theme=dark)
 
 **Scripting & Programming**
 
