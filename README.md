@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Jawwad%20Nadeem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Automation%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
