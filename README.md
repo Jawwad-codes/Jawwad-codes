@@ -186,9 +186,39 @@ Contributed to frontend tasks on web applications in a remote team, gaining hand
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jawwad-codes&show_icons=true&theme=tokyonight&hide_border=true" />
+<img
+  width="49%"
+  src="./profile/stats.svg"
+  alt="GitHub Stats"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-codes&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+  width="49%"
+  src="./profile/top-langs.svg"
+  alt="Top Languages"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=Jawwad-codes&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-activity-chart.vercel.app/graph?username=Jawwad-codes&days=365&bg_color=1a1b27&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true"
+  width="100%"
+  alt="Jawwad-codes Contribution Graph"
+/>
 
 </div>
 
