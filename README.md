@@ -182,22 +182,7 @@ Contributed to frontend tasks on web applications in a remote team, gaining hand
 
 ---
 
-## 📈 GitHub Analytics
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jawwad-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawwad-codes&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</div>
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Jawwad-codes&theme=tokyonight&hide_border=true" />
-</div>
-
-
-## 📊 Contribution Activity
-
-<div align="center">
-  <img src="https://github-activity-chart.vercel.app/graph?username=Jawwad-codes&bg_color=1a1b27&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true&custom_title=Jawwad%20Nadeem's%20Contribution%20Graph" width="100%" alt="Jawwad-codes Contribution Graph"/>
-</div>
 
 ## 🐍 Contribution Snake
 
